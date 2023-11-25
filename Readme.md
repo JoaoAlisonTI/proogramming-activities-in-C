@@ -11,7 +11,7 @@ O repositório está organizado da seguinte forma:
 - Dentro de cada pasta, você encontrará o código-fonte em C correspondente à solução da atividade.
 
 ## Como Utilizar
-Sinta-se à vontade para explorar as soluções de atividades ou utilizar o código-fonte como referência para suas próprias soluções. Lembre-se de respeitar as políticas de integridade acadêmica da sua instituição.
+Sinta-se à vontade para explorar as soluções de atividades ou utilizar o código-fonte como referência para suas próprias soluções. Lembre-se de respeitar as políticas de integridade acadêmica.
 
 ## Autor
 **Nome:** João Alison
@@ -30,7 +30,7 @@ The repository is organized as follows:
 - Inside each folder, you will find the C source code corresponding to the activity's solution.
 
 ## How to Use
-Feel free to explore the activity solutions or use the source code as a reference for your own solutions. Remember to respect the academic integrity policies of your institution.
+Feel free to explore the activity solutions or use the source code as a reference for your own solutions. Remember to respect academic integrity policies.
 
 ## Author
 **Name:** João Alison
