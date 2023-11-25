@@ -1,4 +1,4 @@
-# Armazenamento de Respostas de atividades de Lógica de Programação
+# Atividades de Lógica de Programação
 
 🇧🇷 **PT-BR Readme** 🇧🇷
 
